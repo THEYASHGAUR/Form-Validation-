@@ -3,3 +3,4 @@ This is the small project of form validation using javascript(regular experssion
 Technologies used are:-HTML,CSS,JS.
 
 Icons used in this project is from font awesome website.
+hello india
