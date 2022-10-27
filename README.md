@@ -11,3 +11,7 @@ Icons used in this project is from font awesome website.
 With the shake and error effects in it when someone tries to press the login button without entering the credentials.
 
 ![image](https://user-images.githubusercontent.com/90966838/198387607-1d3a811e-0a5e-4918-9b78-75e479824525.png)
+
+
+
+LIVE DEMO of this project = https://form-validationinjs.netlify.app/
